@@ -5,8 +5,7 @@
 Hi Its me Dadi, I am a technology enthusiast and currently final year Information System Student at UIN Syarif Hidayatullah Jakarta. Love to explore learning something new. <br /><br />
 🌱 I’m currently learning Javascript, ES6 Javascript and ReactJS. <br />
 💬 Ask me about Programming especially building a website. <br /><br />
-📫 How to reach me: <br />
-[LinkedIn](https://www.linkedin.com/in/idadilham/) or [Github](https://github.com/idadhamz)<br />
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/idadilham/) or [Github](https://github.com/idadhamz)<br />
 Dadi Ilham S 🙋‍♂️
 
 <!--
