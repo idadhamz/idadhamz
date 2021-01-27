@@ -7,7 +7,7 @@ Love to explore learning something new. <br />
 🌱 I’m currently learning Javascript, ES6 Javascript and ReactJS. <br />
 💬 Ask me about Programming especially building a website. <br />
 📫 How to reach me: <br />
-[LinkedIn](https://www.linkedin.com/in/idadilham/) or [Github](https://github.com/idadhamz)
+[LinkedIn](https://www.linkedin.com/in/idadilham/) or [Github](https://github.com/idadhamz)<br />
 Dadi Ilham S 🙋‍♂️
 
 <!--
