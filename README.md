@@ -2,8 +2,7 @@
 
 > To Invinity and Beyond:rocket: - **Buzz Lightyear**
 
-I am Dadi Ilham S, people call me Dadi or Dad, I am a tech enthusiast and currently final year in major information system Student at [UIN Syarif Hidayatullah Jakarta](https://www.uinjkt.ac.id/). <br>
-I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am Dadi Ilham S, people call me Dadi or Dad, I am a tech enthusiast and currently final year in major information system Student at [UIN Syarif Hidayatullah Jakarta](https://www.uinjkt.ac.id/). I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-idadilhams-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/idadilhams/)](https://www.linkedin.com/in/idadilhams/)
 [![Instagram Badge](https://img.shields.io/badge/-idadcode-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/idadcode/)](https://www.instagram.com/idadcode/)
