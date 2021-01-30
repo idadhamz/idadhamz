@@ -21,7 +21,7 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 ## I am currently learning in:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![TailwindCSS](https://img.shields.io/badge/-tailwindcss-black?style=flat-square&logo=tailwind-css")
+![TailwindCSS](https://img.shields.io/badge/-tailwindcss-black?style=flat-square&logo=tailwind-css)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=idadhamz&count_private=true&show_icons=true&include_all_commits=true)
 
