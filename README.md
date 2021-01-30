@@ -2,7 +2,7 @@
 
 > To Invinity and Beyond:rocket: - **Buzz Lightyear**
 
-I am Dadi Ilham S, people call me Dadi or Dad, I am a tech enthusiast and currently final year in major information system Student at [UIN Syarif Hidayatullah Jakarta] (https://www.uinjkt.ac.id/). <br>
+I am Dadi Ilham S, people call me Dadi or Dad, I am a tech enthusiast and currently final year in major information system Student at [UIN Syarif Hidayatullah Jakarta](https://www.uinjkt.ac.id/). <br>
 I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-idadilhams-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/idadilhams/)](https://www.linkedin.com/in/idadilhams/)
@@ -21,7 +21,7 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 ## I am currently learning in:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![TailwindCSS](https://img.shields.io/badge/-tailwindcss-black?style=flat-squeare&logo=tailwind-css")
+![TailwindCSS](https://img.shields.io/badge/-tailwindcss-black?style=flat-square&logo=tailwind-css")
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=idadhamz&count_private=true&show_icons=true&include_all_commits=true)
 
