@@ -23,7 +23,7 @@ I am Dadi Ilham S, people call me Dadi or Dad, I am a tech enthusiast and curren
 ![TailwindCSS](https://img.shields.io/badge/-tailwindcss-black?style=flat-square&logo=tailwind-css)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=idadhamz&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idadhamz)](https://github.com/idadhamz/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idadhamz)]
 
 <!--
 **idadhamz/idadhamz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
