@@ -23,7 +23,7 @@ I am Dadi Ilham S, people call me Dadi or Dad, I am a tech enthusiast and curren
 ![TailwindCSS](https://img.shields.io/badge/-tailwindcss-black?style=flat-square&logo=tailwind-css)
 
 ![Idadhamz's GitHub stats](https://github-readme-stats.vercel.app/api?username=idadhamz&show_icons=true&count_private=true&theme=apprentice)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=idadhamz&theme=apprentice)  
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idadhamz&layout=compact&theme=apprentice)
 
 <!--
