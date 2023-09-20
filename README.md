@@ -40,4 +40,5 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 ### My Github Stats
 
 ![Idadhamz's GitHub stats](https://github-readme-stats.vercel.app/api?username=idadhamz&show_icons=true&count_private=true&theme=apprentice)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idadhamz&layout=compact&theme=apprentice)
