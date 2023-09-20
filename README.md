@@ -1,16 +1,20 @@
-### Hola! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+<h1 align="center">Hi 👋, I'm Dadi Ilham S</h1>
+<h3 align="center">A Frontend Developer & Web Developer</h3>
 
-> To Invinity and Beyond:rocket: - **Buzz Lightyear**
-
-I'm Dadi Ilham S an Information Systems final year student at [UIN Syarif Hidayatullah Jakarta](https://www.uinjkt.ac.id/) and tech enthusiast who passionate about developing application especially web based and also have experience in UI/UX design works. Hard-working person, teamwork oriented and love to explore and learn new things about digital and technology.
+### Personal Stuff
+- 🔭 I’m currently working on [PT Mandala Multifinance](https://mandalafinance.com/);
+- 💻 All of my projects are available at [idadilham.space](https://www.idadilham.space/portofolio)
+- 💬 Ask me about HTML & CSS, Javascript and Web Development, I am happy to help;
+- 📫 How to reach me: [@idadilham](https://twitter.com/Idadilham) or email me at **workwithdadi@gmail.com**;
+- 😄 Pronouns: Little bit english but mostly Indonesian
+- ⚡ Fun fact: Hobby play badminton 🏸 & gaming mobile like mobile legend 🎮
 
 I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-idadilhams-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/idadilhams/)](https://www.linkedin.com/in/idadilhams/)
 [![Instagram Badge](https://img.shields.io/badge/-idadcode-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/idadcode/)](https://www.instagram.com/idadcode/)
-[![Gmail Badge](https://img.shields.io/badge/-dadiilhamsetiadii@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dadiilhamsetiadii@gmail.com)](mailto:dadiilhamsetiadii@gmail.com)
 
-## I am have knowledge in:
+### Knowledge & Skills
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
@@ -19,30 +23,21 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-
-## I am currently learning in:
-
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-tailwindcss-black?style=flat-square&logo=tailwind-css)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![TailwindCSS](https://img.shields.io/badge/-tailwindcss-black?style=flat-square&logo=tailwind-css)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-## My Github Stats:
+### Today Learning
+
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+### My Github Stats
 
 ![Idadhamz's GitHub stats](https://github-readme-stats.vercel.app/api?username=idadhamz&show_icons=true&count_private=true&theme=apprentice)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idadhamz&layout=compact&theme=apprentice)
-
-<!--
-**idadhamz/idadhamz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
