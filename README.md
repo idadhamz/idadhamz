@@ -36,9 +36,3 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-
-### My Github Stats
-
-![Idadhamz's GitHub stats](https://github-readme-stats.vercel.app/api?username=idadhamz&show_icons=true&count_private=true&theme=apprentice)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idadhamz&layout=compact&theme=apprentice)
